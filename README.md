@@ -6,11 +6,11 @@ AS Laboratorios es una empresa Peruana de Biotecnologia con sedes en varias regi
 
 - https://aslaboratorios.com/
 
-<p><img src="https://aslaboratorios.com/imgs/wp-content/uploads/2022/08/Capture-decran-2022-08-01-171253.jpg" alt="" width="671" height="321" /></p>
+<p><img src="https://aslaboratorios.com/imgs/wp-content/uploads/2022/08/Capture-decran-2022-08-01-171253.jpg" alt="" 
 
-<p><img src="https://aslaboratorios.com/imgs/wp-content/uploads/2022/08/Capture-decran-2022-08-01-171307.jpg" alt="" width="671" height="321" /></p>
+<p><img src="https://aslaboratorios.com/imgs/wp-content/uploads/2022/08/Capture-decran-2022-08-01-171307.jpg" alt="" 
 
-<p><img src="https://aslaboratorios.com/imgs/wp-content/uploads/2022/08/Capture-decran-2022-08-01-171327.jpg" alt="" width="671" height="321" /></p>
+<p><img src="https://aslaboratorios.com/imgs/wp-content/uploads/2022/08/Capture-decran-2022-08-01-171327.jpg" alt="" 
 
 ## Clonar
 
